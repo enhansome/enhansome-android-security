@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T19:19:01Z",
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50051
+            "stars": 50060
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T17:19:23Z",
+            "last_commit": "2026-08-14T17:46:20Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 8993
+            "stars": 8991
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T08:14:45Z",
+            "last_commit": "2026-08-14T13:46:36Z",
             "owner": "google",
             "repo": "error-prone",
-            "stars": 7220
+            "stars": 7222
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2024-01-17T22:59:22Z",
             "owner": "JesusFreke",
             "repo": "smali",
-            "stars": 6631
+            "stars": 6630
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2023-11-09T01:49:20Z",
             "owner": "CodingGay",
             "repo": "BlackDex",
-            "stars": 6421
+            "stars": 6420
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2025-08-20T21:55:15Z",
             "owner": "dwisiswant0",
             "repo": "apkleaks",
-            "stars": 6256
+            "stars": 6259
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T10:25:13Z",
+            "last_commit": "2026-08-14T18:03:52Z",
             "owner": "pmd",
             "repo": "pmd",
             "stars": 5467
@@ -140,7 +140,7 @@
             "last_commit": "2024-01-16T08:17:35Z",
             "owner": "linkedin",
             "repo": "qark",
-            "stars": 3378
+            "stars": 3379
           }
         },
         {
@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T14:42:43Z",
+            "last_commit": "2026-08-13T19:32:12Z",
             "owner": "facebook",
             "repo": "mariana-trench",
             "stars": 1247
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-13T00:11:18Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62188
+            "stars": 62205
           }
         },
         {
@@ -407,10 +407,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T11:41:54Z",
+            "last_commit": "2026-08-14T18:04:00Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 24564
+            "stars": 24568
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-08-10T06:20:34Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21593
+            "stars": 21597
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9314
+            "stars": 9313
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-04-08T07:54:54Z",
             "owner": "ReversecLabs",
             "repo": "drozer",
-            "stars": 4591
+            "stars": 4592
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3065
+            "stars": 3068
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-04-17T23:37:49Z",
             "owner": "bad-antics",
             "repo": "nullkia",
-            "stars": 37
+            "stars": 38
           }
         }
       ],
@@ -598,7 +598,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2028
+            "stars": 2027
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2022-06-27T22:00:44Z",
             "owner": "den4uk",
             "repo": "andriller",
-            "stars": 1594
+            "stars": 1595
           }
         },
         {
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:07:49.754Z",
+    "last_updated": "2026-08-14T18:06:27.074Z",
     "original_repository": "saeidshirazi/awesome-android-security",
     "original_repository_sha": "4927d9031e88037d89b9efb92fdc2c6308d5661f",
     "enhanced_repository": "enhansome/enhansome-android-security",
