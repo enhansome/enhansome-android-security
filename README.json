@@ -38,7 +38,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50181
+                "stars": 50189
               }
             },
             {
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 12499251,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:10:41Z",
+                "last_commit": "2026-08-24T17:22:20Z",
                 "owner": "checkstyle",
                 "repo": "checkstyle",
-                "stars": 8999
+                "stars": 9000
               }
             },
             {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 23206290,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:26:15Z",
+                "last_commit": "2026-08-24T16:33:26Z",
                 "owner": "google",
                 "repo": "error-prone",
                 "stars": 7226
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 317710554,
                 "language": "C++",
-                "last_commit": "2026-08-24T09:44:29Z",
+                "last_commit": "2026-08-24T14:26:52Z",
                 "owner": "facebook",
                 "repo": "mariana-trench",
                 "stars": 1249
@@ -435,7 +435,7 @@
                 "last_commit": "2026-08-23T21:46:25Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62407
+                "stars": 62411
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-24T13:18:49Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24632
+                "stars": 24633
               }
             },
             {
@@ -465,7 +465,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21631
+                "stars": 21633
               }
             },
             {
@@ -480,7 +480,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9341
+                "stars": 9342
               }
             },
             {
@@ -495,7 +495,7 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4594
+                "stars": 4596
               }
             },
             {
@@ -753,7 +753,7 @@
             "last_commit": "2026-04-08T07:54:54Z",
             "owner": "ReversecLabs",
             "repo": "drozer",
-            "stars": 4594
+            "stars": 4596
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2023-05-19T21:04:24Z",
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1137
+            "stars": 1138
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2024-07-24T18:34:52Z",
             "owner": "niklashigi",
             "repo": "apk-mitm",
-            "stars": 5088
+            "stars": 5089
           }
         },
         {
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:38.043Z",
+    "last_updated": "2026-08-24T17:46:51.202Z",
     "original_repository": "saeidshirazi/awesome-android-security",
     "original_repository_id": 296523529,
     "original_repository_sha": "4927d9031e88037d89b9efb92fdc2c6308d5661f",
