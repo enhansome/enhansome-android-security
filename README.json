@@ -4,6 +4,27 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219476505,
+            "language": "Python",
+            "last_commit": "2019-11-04T12:59:55Z",
+            "owner": "Magpol",
+            "repo": "fridafde",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "How To's"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,7 +38,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50168
+                "stars": 50181
               }
             },
             {
@@ -44,10 +65,10 @@
                 "archived": false,
                 "id": 12499251,
                 "language": "Java",
-                "last_commit": "2026-08-23T17:34:06Z",
+                "last_commit": "2026-08-24T14:10:41Z",
                 "owner": "checkstyle",
                 "repo": "checkstyle",
-                "stars": 8998
+                "stars": 8999
               }
             },
             {
@@ -59,10 +80,10 @@
                 "archived": false,
                 "id": 23206290,
                 "language": "Java",
-                "last_commit": "2026-08-23T14:12:29Z",
+                "last_commit": "2026-08-24T00:26:15Z",
                 "owner": "google",
                 "repo": "error-prone",
-                "stars": 7225
+                "stars": 7226
               }
             },
             {
@@ -92,7 +113,7 @@
                 "last_commit": "2023-11-09T01:49:20Z",
                 "owner": "CodingGay",
                 "repo": "BlackDex",
-                "stars": 6434
+                "stars": 6435
               }
             },
             {
@@ -107,7 +128,7 @@
                 "last_commit": "2025-08-20T21:55:15Z",
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6266
+                "stars": 6271
               }
             },
             {
@@ -122,7 +143,7 @@
                 "last_commit": "2026-08-21T11:11:38Z",
                 "owner": "pmd",
                 "repo": "pmd",
-                "stars": 5469
+                "stars": 5471
               }
             },
             {
@@ -224,10 +245,10 @@
                 "archived": false,
                 "id": 317710554,
                 "language": "C++",
-                "last_commit": "2026-08-21T17:45:45Z",
+                "last_commit": "2026-08-24T09:44:29Z",
                 "owner": "facebook",
                 "repo": "mariana-trench",
-                "stars": 1250
+                "stars": 1249
               }
             },
             {
@@ -411,10 +432,10 @@
                 "archived": false,
                 "id": 67702184,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T15:42:14Z",
+                "last_commit": "2026-08-23T21:46:25Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62381
+                "stars": 62407
               }
             },
             {
@@ -426,10 +447,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-23T14:54:17Z",
+                "last_commit": "2026-08-24T13:18:49Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24627
+                "stars": 24632
               }
             },
             {
@@ -444,7 +465,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21624
+                "stars": 21631
               }
             },
             {
@@ -459,7 +480,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9339
+                "stars": 9341
               }
             },
             {
@@ -717,7 +738,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13130
+            "stars": 13131
           }
         },
         {
@@ -822,7 +843,7 @@
             "last_commit": "2024-07-18T00:33:14Z",
             "owner": "oversecured",
             "repo": "ovaa",
-            "stars": 754
+            "stars": 755
           }
         },
         {
@@ -993,7 +1014,7 @@
             "last_commit": "2026-08-14T07:28:17Z",
             "owner": "AzeemIdrisi",
             "repo": "PhoneSploit-Pro",
-            "stars": 6117
+            "stars": 6119
           }
         },
         {
@@ -1149,7 +1170,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13130
+            "stars": 13131
           }
         },
         {
@@ -1172,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:34:14.989Z",
+    "last_updated": "2026-08-24T14:14:38.043Z",
     "original_repository": "saeidshirazi/awesome-android-security",
     "original_repository_id": 296523529,
     "original_repository_sha": "4927d9031e88037d89b9efb92fdc2c6308d5661f",
