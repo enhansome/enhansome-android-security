@@ -86,7 +86,7 @@
 
 # How To's
 
-* [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2019-11-04
+* [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2019-11-04
 * [How to analyze mobile malware: a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 * [How to Bypasses Iframe Sandboxing](https://blog.confiant.com/malvertiser-scamclub-bypasses-iframe-sandboxing-with-postmessage-shenanigans-cve-2021-1801-1c998378bfba)
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
@@ -137,30 +137,30 @@
 
 #### Static Analysis
 
-* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases) ⭐ 50,230 | 🐛 446 | 🌐 Java | 📅 2026-08-19
+* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases) ⭐ 50,238 | 🐛 446 | 🌐 Java | 📅 2026-08-19
 * [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,691 | 🐛 194 | 🌐 OCaml | 📅 2026-08-27
-* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,002 | 🐛 777 | 🌐 Java | 📅 2026-08-27
-* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 523 | 🌐 Java | 📅 2026-08-27
+* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,004 | 🐛 774 | 🌐 Java | 📅 2026-08-28
+* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 522 | 🌐 Java | 📅 2026-08-27
 * [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali) ⚠️ Archived
 * [BlackDex is an Android unpack(dexdump) tool](https://github.com/CodingGay/BlackDex) ⭐ 6,438 | 🐛 84 | 🌐 C++ | 📅 2023-11-09
 * [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks) ⭐ 6,276 | 🐛 26 | 🌐 Python | 📅 2025-08-20
-* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,474 | 🐛 590 | 🌐 Java | 📅 2026-08-26
-* [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab) ⭐ 3,953 | 🐛 24 | 🌐 TypeScript | 📅 2026-07-16
+* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,474 | 🐛 586 | 🌐 Java | 📅 2026-08-27
+* [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab) ⭐ 3,951 | 🐛 24 | 🌐 TypeScript | 📅 2026-07-16
 * [QARK – Quick Android Review Kit](https://github.com/linkedin/qark) ⭐ 3,382 | 🐛 79 | 🌐 Python | 📅 2024-01-16
 * [Soot – A Java Optimization Framework](https://github.com/Sable/soot) ⭐ 3,098 | 🐛 349 | 🌐 Java | 📅 2026-08-17
 * [Find Security Bugs – A SpotBugs plugin for security audits of Java web applications.](https://github.com/find-sec-bugs/find-sec-bugs/) ⭐ 2,438 | 🐛 115 | 🌐 Java | 📅 2026-03-26
-* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine) ⭐ 1,713 | 🐛 78 | 🌐 Python | 📅 2026-08-20
+* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine) ⭐ 1,713 | 🐛 77 | 🌐 Python | 📅 2026-08-27
 * [Flow Droid – Static Data Flow Tracker](https://github.com/secure-software-engineering/FlowDroid) ⭐ 1,258 | 🐛 244 | 🌐 Java | 📅 2026-08-18
 * [mariana-trench - Our security focused static analysis tool for Android and Java applications.](https://github.com/facebook/mariana-trench) ⭐ 1,251 | 🐛 44 | 🌐 C++ | 📅 2026-08-24
 * [StaCoAn – crossplatform tool which aids developers, bugbounty hunters and ethical hackers](https://github.com/vincentcox/StaCoAn) ⭐ 868 | 🐛 11 | 🌐 JavaScript | 📅 2021-04-27
 * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/) ⭐ 532 | 🐛 22 | 🌐 HTML | 📅 2020-01-21
 * [Deoptfuscator - Deobfuscator for Android Application](https://github.com/Gyoonus/deoptfuscator) ⭐ 479 | 🐛 11 | 🌐 C++ | 📅 2022-06-16
 * [Gradle Static Analysis Plugin](https://github.com/novoda/gradle-static-analysis-plugin) ⚠️ Archived
-* [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security) ⭐ 335 | 🐛 1 | 🌐 Java | 📅 2026-06-05
+* [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security) ⭐ 336 | 🐛 1 | 🌐 Java | 📅 2026-06-05
 * [Droid Hunter – Android application vulnerability analysis and Android pentest tool](https://github.com/hahwul/droid-hunter) ⚠️ Archived
 * [Android Check – Static Code analysis plugin for Android Project](https://github.com/noveogroup/android-check) ⭐ 265 | 🐛 21 | 🌐 Groovy | 📅 2018-05-28
 * [Mobile Audit – Web application for performing Static Analysis and detecting malware in Android APKs](https://github.com/mpast/mobileAudit) ⭐ 226 | 🐛 2 | 🌐 Python | 📅 2026-08-26
-* [Defeat Java packers via Frida instrumentation](https://github.com/enovella/fridroid-unpacker) ⭐ 221 | 🐛 5 | 🌐 JavaScript | 📅 2025-12-04
+* [Defeat Java packers via Frida instrumentation](https://github.com/enovella/fridroid-unpacker) ⭐ 222 | 🐛 5 | 🌐 JavaScript | 📅 2025-12-04
 * [Trueseeing – fast, accurate and resillient vulnerabilities scanner for Android apps](https://github.com/alterakey/trueseeing) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-08-11
 * [Android Quality Starter](https://github.com/pwittchen/android-quality-starter) ⭐ 33 | 🐛 0 | 🌐 Shell | 📅 2018-01-07
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
@@ -175,20 +175,20 @@
 
 #### Dynamic Analysis
 
-* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk) ⭐ 62,466 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-27
-* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,656 | 🐛 819 | 🌐 C | 📅 2026-08-27
-* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,656 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-27
-* [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection) ⭐ 9,348 | 🐛 55 | 🌐 Python | 📅 2026-07-23
+* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk) ⭐ 62,467 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-27
+* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,662 | 🐛 825 | 🌐 C | 📅 2026-08-27
+* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,658 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-27
+* [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection) ⭐ 9,349 | 🐛 55 | 🌐 Python | 📅 2026-07-23
 * [Drozer](https://github.com/FSecureLABS/drozer) ⭐ 4,597 | 🐛 9 | 🌐 Python | 📅 2026-04-08
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,076 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-03
 * [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,982 | 🐛 58 | 🌐 Java | 📅 2020-09-22
-* [House: A runtime mobile application analysis toolkit with a Web GUI](https://github.com/nccgroup/house) ⭐ 1,463 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03
+* [House: A runtime mobile application analysis toolkit with a Web GUI](https://github.com/nccgroup/house) ⭐ 1,464 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03
 * [Slicer-automate APK Recon](https://github.com/mzfr/slicer) ⭐ 343 | 🐛 4 | 🌐 Python | 📅 2022-09-30
-* [Spectre - Radio frequency scanner with recon and offensive capabilities](https://github.com/thomasbuilds/Spectre) ⭐ 146 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-26
+* [Spectre - Radio frequency scanner with recon and offensive capabilities](https://github.com/thomasbuilds/Spectre) ⭐ 147 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-26
 * [PATDroid - Collection of tools and data structures for analyzing Android applications](https://github.com/mingyuan-xia/PATDroid) ⭐ 120 | 🐛 3 | 🌐 Java | 📅 2017-05-25
 * [MPT - Mobile Pentest Toolkit (MPT) is a must-have solution for your android penetration testing workflows.](https://github.com/ByteSnipers/mobile-pentest-toolkit) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2026-05-15
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff) ⭐ 88 | 🐛 1 | 🌐 Python | 📅 2022-06-07
-* [NullKia](https://github.com/bad-antics/nullkia) ⭐ 38 | 🐛 4 | 🌐 Go | 📅 2026-04-17 - Mobile security framework supporting 18 manufacturers with baseband exploitation, TEE/TrustZone research, cellular security, and eSIM tools
+* [NullKia](https://github.com/bad-antics/nullkia) ⭐ 39 | 🐛 4 | 🌐 Go | 📅 2026-04-17 - Mobile security framework supporting 18 manufacturers with baseband exploitation, TEE/TrustZone research, cellular security, and eSIM tools
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
 * [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
 
@@ -225,14 +225,14 @@
 
 * [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME) ⭐ 2,028 | 🐛 35 | 🌐 C | 📅 2026-04-05
 * [Andriller](https://github.com/den4uk/andriller) ⭐ 1,599 | 🐛 11 | 🌐 Python | 📅 2022-06-27
-* [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump) ⭐ 858 | 🐛 27 | 🌐 Python | 📅 2024-08-07
+* [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump) ⭐ 859 | 🐛 27 | 🌐 Python | 📅 2024-08-07
 * [bandicoot](https://github.com/computationalprivacy/bandicoot) ⭐ 240 | 🐛 2 | 🌐 Python | 📅 2021-01-04
 * [Forensic Analysis for Mobile Apps (FAMA)](https://github.com/labcif/FAMA) ⚠️ Archived
 * [Autopsy](https://www.autopsy.com/)
 
 # Labs
 
-* [OWASP-mstg(UnCrackable Mobile Apps)](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,139 | 🐛 234 | 🌐 Python | 📅 2026-08-14
+* [OWASP-mstg(UnCrackable Mobile Apps)](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,140 | 🐛 235 | 🌐 Python | 📅 2026-08-14
 * [Sieve app(An android application which exploits through android components)](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk) ⭐ 4,597 | 🐛 9 | 🌐 Python | 📅 2026-04-08
 * [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,470 | 🐛 17 | 🌐 Java | 📅 2024-04-17
 * [OWASP Security Shepherd ](https://github.com/OWASP/SecurityShepherd) ⭐ 1,456 | 🐛 144 | 🌐 Java | 📅 2026-08-12
@@ -278,16 +278,16 @@
 
 # Misc
 
-* [PhoneSploit with Metasploit Integration](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,128 | 🐛 3 | 🌐 Python | 📅 2026-08-14
-* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,092 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24
-* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md) ⭐ 1,706 | 🐛 0 | 📅 2025-09-10
+* [PhoneSploit with Metasploit Integration](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,126 | 🐛 3 | 🌐 Python | 📅 2026-08-14
+* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,093 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24
+* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md) ⭐ 1,707 | 🐛 0 | 📅 2025-09-10
 * [Andriller - is software utility with a collection of forensic tools for smartphones](https://github.com/den4uk/andriller) ⭐ 1,599 | 🐛 11 | 🌐 Python | 📅 2022-06-27
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020) ⭐ 334 | 🐛 5 | 📅 2021-01-06
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019) ⭐ 254 | 🐛 1 | 📅 2020-01-01
 * [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 221 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
 * [android-device-check - a set of scripts to check Android device security configuration](https://github.com/nelenkov/android-device-check) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2019-10-25
 * [Popular Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021) ⭐ 38 | 🐛 1 | 📅 2022-03-09
-* [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022) ⭐ 34 | 🐛 0 | 📅 2022-11-08
+* [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022) ⭐ 35 | 🐛 0 | 📅 2022-11-08
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
 * [Hands On Mobile API Security](https://hackernoon.com/hands-on-mobile-api-security-get-rid-of-client-secrets-a79f111b6844)
 * [Android Penetration Testing Courses](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
@@ -306,21 +306,21 @@
 
 # Cheat Sheet
 
-* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet) ⭐ 294 | 🐛 1 | 📅 2018-02-02
+* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet) ⭐ 293 | 🐛 1 | 📅 2018-02-02
 * [ADB (Android Debug Bridge) Cheat Sheet](https://www.mobileqaengineer.com/blog/2020/2/4/adb-android-debug-bridge-cheat-sheet)
 * [Frida Cheatsheet and Code Snippets for Android](https://erev0s.com/blog/frida-code-snippets-for-android/)
 
 # Checklists
 
-* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists) ⭐ 13,139 | 🐛 234 | 🌐 Python | 📅 2026-08-14
+* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists) ⭐ 13,140 | 🐛 235 | 🌐 Python | 📅 2026-08-14
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) ⭐ 2,438 | 🐛 3 | 🌐 Python | 📅 2025-12-22
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
 
 # Bug Bounty Reports
 
-* [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources) ⭐ 1,706 | 🐛 0 | 📅 2025-09-10
+* [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources) ⭐ 1,707 | 🐛 0 | 📅 2025-09-10
 * [How to report security issues](https://source.android.com/security/overview/updates-resources#report-issues)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
