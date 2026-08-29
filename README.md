@@ -137,9 +137,9 @@
 
 #### Static Analysis
 
-* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases) ⭐ 50,249 | 🐛 443 | 🌐 Java | 📅 2026-08-28
+* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases) ⭐ 50,251 | 🐛 443 | 🌐 Java | 📅 2026-08-28
 * [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,693 | 🐛 194 | 🌐 OCaml | 📅 2026-08-27
-* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,027 | 🐛 771 | 🌐 Java | 📅 2026-08-29
+* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,032 | 🐛 765 | 🌐 Java | 📅 2026-08-29
 * [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,227 | 🐛 523 | 🌐 Java | 📅 2026-08-28
 * [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali) ⚠️ Archived
 * [BlackDex is an Android unpack(dexdump) tool](https://github.com/CodingGay/BlackDex) ⭐ 6,437 | 🐛 84 | 🌐 C++ | 📅 2023-11-09
@@ -175,8 +175,8 @@
 
 #### Dynamic Analysis
 
-* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk) ⭐ 62,479 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-27
-* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,672 | 🐛 824 | 🌐 C | 📅 2026-08-29
+* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk) ⭐ 62,482 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-27
+* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,674 | 🐛 824 | 🌐 C | 📅 2026-08-29
 * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,661 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-27
 * [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection) ⭐ 9,350 | 🐛 55 | 🌐 Python | 📅 2026-07-23
 * [Drozer](https://github.com/FSecureLABS/drozer) ⭐ 4,599 | 🐛 9 | 🌐 Python | 📅 2026-04-08
@@ -223,7 +223,7 @@
 
 #### Forensic Analysis
 
-* [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME) ⭐ 2,028 | 🐛 35 | 🌐 C | 📅 2026-04-05
+* [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME) ⭐ 2,029 | 🐛 35 | 🌐 C | 📅 2026-04-05
 * [Andriller](https://github.com/den4uk/andriller) ⭐ 1,599 | 🐛 11 | 🌐 Python | 📅 2022-06-27
 * [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump) ⭐ 859 | 🐛 27 | 🌐 Python | 📅 2024-08-07
 * [bandicoot](https://github.com/computationalprivacy/bandicoot) ⭐ 240 | 🐛 2 | 🌐 Python | 📅 2021-01-04
@@ -278,13 +278,13 @@
 
 # Misc
 
-* [PhoneSploit with Metasploit Integration](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,129 | 🐛 3 | 🌐 Python | 📅 2026-08-14
+* [PhoneSploit with Metasploit Integration](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,130 | 🐛 3 | 🌐 Python | 📅 2026-08-14
 * [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,096 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md) ⭐ 1,708 | 🐛 0 | 📅 2025-09-10
 * [Andriller - is software utility with a collection of forensic tools for smartphones](https://github.com/den4uk/andriller) ⭐ 1,599 | 🐛 11 | 🌐 Python | 📅 2022-06-27
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020) ⭐ 335 | 🐛 5 | 📅 2021-01-06
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019) ⭐ 255 | 🐛 1 | 📅 2020-01-01
-* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 221 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
+* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 222 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
 * [android-device-check - a set of scripts to check Android device security configuration](https://github.com/nelenkov/android-device-check) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2019-10-25
 * [Popular Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021) ⭐ 39 | 🐛 1 | 📅 2022-03-09
 * [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022) ⭐ 36 | 🐛 0 | 📅 2022-11-08
