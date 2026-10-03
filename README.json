@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8",
-          "description": null,
+          "description": "Magpol/fridafde",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "jadx - Dex to Java decompiler",
-              "description": null,
+              "description": "skylot/jadx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -48,7 +48,7 @@
                 "open_issues": 455,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50713,
+                "stars": 50718,
                 "topics": [
                   "android",
                   "decompiler",
@@ -61,7 +61,7 @@
             {
               "node_type": "item",
               "title": "Infer – A Static Analysis tool for Java, C, C++ and Objective-C",
-              "description": null,
+              "description": "facebook/infer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
                 "language": "OCaml",
                 "license": "MIT",
                 "last_commit": "2026-10-02T17:56:37Z",
-                "open_issues": 232,
+                "open_issues": 271,
                 "owner": "facebook",
                 "repo": "infer",
                 "stars": 15714,
@@ -90,7 +90,7 @@
             {
               "node_type": "item",
               "title": "Checkstyle – A tool for checking Java source code",
-              "description": null,
+              "description": "checkstyle/checkstyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,11 +99,11 @@
                 "id": 12499251,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-02T17:59:17Z",
-                "open_issues": 759,
+                "last_commit": "2026-10-02T21:44:25Z",
+                "open_issues": 761,
                 "owner": "checkstyle",
                 "repo": "checkstyle",
-                "stars": 9586,
+                "stars": 9587,
                 "topics": [
                   "code-quality",
                   "command-line-tool",
@@ -118,7 +118,7 @@
             {
               "node_type": "item",
               "title": "Error Prone – Static Analysis Tool",
-              "description": null,
+              "description": "google/error-prone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,8 +127,8 @@
                 "id": 23206290,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:29:48Z",
-                "open_issues": 542,
+                "last_commit": "2026-10-02T21:29:55Z",
+                "open_issues": 544,
                 "owner": "google",
                 "repo": "error-prone",
                 "stars": 7244,
@@ -142,7 +142,7 @@
             {
               "node_type": "item",
               "title": "Smali/Baksmali – Assembler/Disassembler for the dex format",
-              "description": null,
+              "description": "JesusFreke/smali",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -163,7 +163,7 @@
             {
               "node_type": "item",
               "title": "BlackDex is an Android unpack(dexdump) tool",
-              "description": null,
+              "description": "CodingGay/BlackDex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -196,7 +196,7 @@
             {
               "node_type": "item",
               "title": "APK Leaks – Scanning APK file for URIs, endpoints & secrets",
-              "description": null,
+              "description": "dwisiswant0/apkleaks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -209,7 +209,7 @@
                 "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6327,
+                "stars": 6328,
                 "topics": [
                   "android-security",
                   "apk",
@@ -226,7 +226,7 @@
             {
               "node_type": "item",
               "title": "PMD – An extensible multilanguage static code analyzer",
-              "description": null,
+              "description": "pmd/pmd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
                 "id": 4992906,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:39:33Z",
+                "last_commit": "2026-10-03T00:47:41Z",
                 "open_issues": 597,
                 "owner": "pmd",
                 "repo": "pmd",
@@ -258,7 +258,7 @@
             {
               "node_type": "item",
               "title": "Android Reverse Engineering WorkBench for VS Code",
-              "description": null,
+              "description": "APKLab/APKLab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -271,7 +271,7 @@
                 "open_issues": 24,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 3998,
+                "stars": 3999,
                 "topics": [
                   "android",
                   "apk-decompiler",
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "QARK – Quick Android Review Kit",
-              "description": null,
+              "description": "linkedin/qark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -319,7 +319,7 @@
             {
               "node_type": "item",
               "title": "Soot – A Java Optimization Framework",
-              "description": null,
+              "description": "soot-oss/soot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "Find Security Bugs – A SpotBugs plugin for security audits of Java web applications.",
-              "description": null,
+              "description": "find-sec-bugs/find-sec-bugs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,7 +382,7 @@
             {
               "node_type": "item",
               "title": "quark-engine - An Obfuscation-Neglect Android Malware Scoring System",
-              "description": null,
+              "description": "ev-flow/quark-engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "Flow Droid – Static Data Flow Tracker",
-              "description": null,
+              "description": "secure-software-engineering/FlowDroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "mariana-trench - Our security focused static analysis tool for Android and Java applications.",
-              "description": null,
+              "description": "facebook/mariana-trench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "StaCoAn – crossplatform tool which aids developers, bugbounty hunters and ethical hackers",
-              "description": null,
+              "description": "vincentcox/StaCoAn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -483,7 +483,7 @@
             {
               "node_type": "item",
               "title": "Androwarn – Yet Another Static Code Analyzer",
-              "description": null,
+              "description": "maaaaz/androwarn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,7 +504,7 @@
             {
               "node_type": "item",
               "title": "Deoptfuscator - Deobfuscator for Android Application",
-              "description": null,
+              "description": "Gyoonus/deoptfuscator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -535,7 +535,7 @@
             {
               "node_type": "item",
               "title": "Gradle Static Analysis Plugin",
-              "description": null,
+              "description": "novoda/gradle-static-analysis-plugin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -567,7 +567,7 @@
             {
               "node_type": "item",
               "title": "semgrep-rules-android-security",
-              "description": null,
+              "description": "mindedsecurity/semgrep-rules-android-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "Droid Hunter – Android application vulnerability analysis and Android pentest tool",
-              "description": null,
+              "description": "hahwul/droid-hunter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -620,7 +620,7 @@
             {
               "node_type": "item",
               "title": "Android Check – Static Code analysis plugin for Android Project",
-              "description": null,
+              "description": "noveogroup/android-check",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
             {
               "node_type": "item",
               "title": "Mobile Audit – Web application for performing Static Analysis and detecting malware in Android APKs",
-              "description": null,
+              "description": "mpast/mobileAudit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "Defeat Java packers via Frida instrumentation",
-              "description": null,
+              "description": "enovella/fridroid-unpacker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -699,7 +699,7 @@
             {
               "node_type": "item",
               "title": "Trueseeing – fast, accurate and resillient vulnerabilities scanner for Android apps",
-              "description": null,
+              "description": "alterakey/trueseeing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "Android Quality Starter",
-              "description": null,
+              "description": "pwittchen/android-quality-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -757,7 +757,7 @@
             {
               "node_type": "item",
               "title": "Magisk v23.0 - Root & Universal Systemless Interface",
-              "description": null,
+              "description": "topjohnwu/Magisk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -766,11 +766,11 @@
                 "id": 67702184,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T04:49:18Z",
+                "last_commit": "2026-10-03T00:17:56Z",
                 "open_issues": 39,
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 63039,
+                "stars": 63045,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:09.942Z"
@@ -778,7 +778,7 @@
             {
               "node_type": "item",
               "title": "Radare2 - Unix-like reverse engineering framework and commandline tools",
-              "description": null,
+              "description": "radareorg/radare2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -788,10 +788,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:13:48Z",
-                "open_issues": 795,
+                "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24911,
+                "stars": 24912,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "Mobile-Security-Framework MobSF",
-              "description": null,
+              "description": "MobSF/Mobile-Security-Framework-MobSF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -823,7 +823,7 @@
                 "open_issues": 13,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21867,
+                "stars": 21869,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "Objection - Runtime Mobile Exploration toolkit, powered by Frida",
-              "description": null,
+              "description": "sensepost/objection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -864,7 +864,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9418,
+                "stars": 9419,
                 "topics": [
                   "android",
                   "framework",
@@ -881,7 +881,7 @@
             {
               "node_type": "item",
               "title": "Drozer",
-              "description": null,
+              "description": "ReversecLabs/drozer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -911,7 +911,7 @@
             {
               "node_type": "item",
               "title": "Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
-              "description": null,
+              "description": "m0bilesecurity/RMS-Runtime-Mobile-Security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -924,7 +924,7 @@
                 "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3101,
+                "stars": 3103,
                 "topics": [
                   "android-security",
                   "frida",
@@ -938,7 +938,7 @@
             {
               "node_type": "item",
               "title": "Inspeckage",
-              "description": null,
+              "description": "ac-pm/Inspeckage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -964,7 +964,7 @@
             {
               "node_type": "item",
               "title": "House: A runtime mobile application analysis toolkit with a Web GUI",
-              "description": null,
+              "description": "nccgroup/house",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -990,7 +990,7 @@
             {
               "node_type": "item",
               "title": "Slicer-automate APK Recon",
-              "description": null,
+              "description": "mzfr/slicer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "Spectre - Radio frequency scanner with recon and offensive capabilities",
-              "description": null,
+              "description": "thomasbuilds/Spectre",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1056,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "FlutterTap - Zygisk module that bypasses BoringSSL TLS pinning inside libflutter.so and redirects Flutter app traffic to a proxy, persistently and without a Frida session",
-              "description": null,
+              "description": "script-or-script/FlutterTap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1094,7 +1094,7 @@
             {
               "node_type": "item",
               "title": "PATDroid - Collection of tools and data structures for analyzing Android applications",
-              "description": null,
+              "description": "mingyuan-xia/PATDroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1121,7 +1121,7 @@
             {
               "node_type": "item",
               "title": "MPT - Mobile Pentest Toolkit (MPT) is a must-have solution for your android penetration testing workflows.",
-              "description": null,
+              "description": "ByteSnipers/mobile-pentest-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1151,7 +1151,7 @@
             {
               "node_type": "item",
               "title": "Droid-FF - Android File Fuzzing Framework",
-              "description": null,
+              "description": "antojoseph/droid-ff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1221,7 +1221,7 @@
             {
               "node_type": "item",
               "title": "LiME - Linux Memory Extractor",
-              "description": null,
+              "description": "jtsylve/LiME",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1234,7 +1234,7 @@
                 "open_issues": 35,
                 "owner": "jtsylve",
                 "repo": "LiME",
-                "stars": 2040,
+                "stars": 2041,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:09.942Z"
@@ -1242,7 +1242,7 @@
             {
               "node_type": "item",
               "title": "Andriller",
-              "description": null,
+              "description": "den4uk/andriller",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1267,7 +1267,7 @@
             {
               "node_type": "item",
               "title": "Fridump-A universal memory dumper using Frida",
-              "description": null,
+              "description": "Nightbringer21/fridump",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1288,7 +1288,7 @@
             {
               "node_type": "item",
               "title": "bandicoot",
-              "description": null,
+              "description": "imperial-aisp/bandicoot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1309,7 +1309,7 @@
             {
               "node_type": "item",
               "title": "Forensic Analysis for Mobile Apps (FAMA)",
-              "description": null,
+              "description": "labcif/FAMA",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1337,7 +1337,7 @@
             {
               "node_type": "item",
               "title": "radio-triage - Android radio log triage with telephony event timeline and anomaly detection from logcat",
-              "description": null,
+              "description": "0xPersist/radio-triage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1369,7 +1369,7 @@
         {
           "node_type": "item",
           "title": "OWASP-mstg(UnCrackable Mobile Apps)",
-          "description": null,
+          "description": "OWASP/mastg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1410,7 +1410,7 @@
         {
           "node_type": "item",
           "title": "Sieve app(An android application which exploits through android components)",
-          "description": null,
+          "description": "ReversecLabs/drozer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1440,7 +1440,7 @@
         {
           "node_type": "item",
           "title": "Android InsecureBankv2",
-          "description": null,
+          "description": "dineshshetty/Android-InsecureBankv2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1461,7 +1461,7 @@
         {
           "node_type": "item",
           "title": "OWASP Security Shepherd",
-          "description": null,
+          "description": "OWASP/SecurityShepherd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1482,7 +1482,7 @@
         {
           "node_type": "item",
           "title": "AndroL4b - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis",
-          "description": null,
+          "description": "sh4hin/Androl4b",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1510,7 +1510,7 @@
         {
           "node_type": "item",
           "title": "DIVA (Damn insecure and vulnerable App)",
-          "description": null,
+          "description": "payatu/diva-android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1531,7 +1531,7 @@
         {
           "node_type": "item",
           "title": "OVAA (Oversecured Vulnerable Android App)",
-          "description": null,
+          "description": "oversecured/ovaa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1558,7 +1558,7 @@
         {
           "node_type": "item",
           "title": "Damn-Vulnerable-Bank",
-          "description": null,
+          "description": "rewanthtammana/Damn-Vulnerable-Bank",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1591,7 +1591,7 @@
         {
           "node_type": "item",
           "title": "Damn Vulnerable Hybrid Mobile App (DVHMA)",
-          "description": null,
+          "description": "logicalhacking/DVHMA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1617,7 +1617,7 @@
         {
           "node_type": "item",
           "title": "Android-security Sandbox",
-          "description": null,
+          "description": "rafaeltoledo/android-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1643,7 +1643,7 @@
         {
           "node_type": "item",
           "title": "Android Security Labs",
-          "description": null,
+          "description": "SecurityCompass/AndroidLabs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1664,7 +1664,7 @@
         {
           "node_type": "item",
           "title": "Purposefully Insecure and Vulnerable Android Application (PIIVA)",
-          "description": null,
+          "description": "HTBridge/pivaa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1689,7 +1689,7 @@
         {
           "node_type": "item",
           "title": "VulnerableAndroidAppOracle",
-          "description": null,
+          "description": "dan7800/VulnerableAndroidAppOracle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1710,7 +1710,7 @@
         {
           "node_type": "item",
           "title": "Digitalbank(Android Digital Bank Vulnerable Mobile App)",
-          "description": null,
+          "description": "CyberScions/Digitalbank",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1731,7 +1731,7 @@
         {
           "node_type": "item",
           "title": "DodoVulnerableBank(Insecure Vulnerable Android Application that helps to learn hacing and securing apps)",
-          "description": null,
+          "description": "CSPF-Founder/DodoVulnerableBank",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1752,7 +1752,7 @@
         {
           "node_type": "item",
           "title": "AppKnox Vulnerable Application",
-          "description": null,
+          "description": "appknox/vulnerable-application",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1773,7 +1773,7 @@
         {
           "node_type": "item",
           "title": "VulnDroid(CTF Style Vulnerable Android App)",
-          "description": null,
+          "description": "mihir-shah99/VulnDroid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1794,7 +1794,7 @@
         {
           "node_type": "item",
           "title": "Vulnerable Android Application",
-          "description": null,
+          "description": "lancechentw/VulnApp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1821,7 +1821,7 @@
         {
           "node_type": "item",
           "title": "PhoneSploit with Metasploit Integration",
-          "description": null,
+          "description": "AzeemIdrisi/PhoneSploit-Pro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1834,7 +1834,7 @@
             "open_issues": 2,
             "owner": "AzeemIdrisi",
             "repo": "PhoneSploit-Pro",
-            "stars": 6328,
+            "stars": 6327,
             "topics": [
               "adb",
               "android",
@@ -1863,7 +1863,7 @@
         {
           "node_type": "item",
           "title": "apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection",
-          "description": null,
+          "description": "niklashigi/apk-mitm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1893,7 +1893,7 @@
         {
           "node_type": "item",
           "title": "Android-Reports-and-Resources",
-          "description": null,
+          "description": "B3nac/Android-Reports-and-Resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1928,7 +1928,7 @@
         {
           "node_type": "item",
           "title": "Andriller - is software utility with a collection of forensic tools for smartphones",
-          "description": null,
+          "description": "den4uk/andriller",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1953,7 +1953,7 @@
         {
           "node_type": "item",
           "title": "Popular Android Malware 2020",
-          "description": null,
+          "description": "sk3ptre/AndroidMalware_2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1974,7 +1974,7 @@
         {
           "node_type": "item",
           "title": "Popular Android Malware 2019",
-          "description": null,
+          "description": "sk3ptre/AndroidMalware_2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1995,7 +1995,7 @@
         {
           "node_type": "item",
           "title": "Shodan.io-mobile-app for Android",
-          "description": null,
+          "description": "PaulSec/Shodan.io-mobile-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2016,7 +2016,7 @@
         {
           "node_type": "item",
           "title": "android-device-check - a set of scripts to check Android device security configuration",
-          "description": null,
+          "description": "nelenkov/android-device-check",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2037,7 +2037,7 @@
         {
           "node_type": "item",
           "title": "Popular Android Malware 2021",
-          "description": null,
+          "description": "sk3ptre/AndroidMalware_2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2058,7 +2058,7 @@
         {
           "node_type": "item",
           "title": "Popular Android Malware 2022",
-          "description": null,
+          "description": "sk3ptre/AndroidMalware_2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2117,7 +2117,7 @@
         {
           "node_type": "item",
           "title": "OWASP Mobile Security Testing Guide (MSTG)",
-          "description": null,
+          "description": "OWASP/mastg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2158,7 +2158,7 @@
         {
           "node_type": "item",
           "title": "OWASP Mobile Application Security Verification Standard (MASVS)",
-          "description": null,
+          "description": "OWASP/masvs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:19:45.867Z",
+    "last_updated": "2026-10-03T04:33:14.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters",
