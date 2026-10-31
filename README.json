@@ -48,7 +48,7 @@
                 "open_issues": 460,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 51392,
+                "stars": 51411,
                 "topics": [
                   "android",
                   "decompiler",
@@ -70,11 +70,11 @@
                 "id": 29857799,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-30T12:16:34Z",
-                "open_issues": 260,
+                "last_commit": "2026-10-31T20:23:36Z",
+                "open_issues": 263,
                 "owner": "meta",
                 "repo": "infer",
-                "stars": 15737,
+                "stars": 15739,
                 "topics": [
                   "c",
                   "code-quality",
@@ -99,11 +99,11 @@
                 "id": 12499251,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-30T17:23:06Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-31T20:20:58Z",
+                "open_issues": 873,
                 "owner": "checkstyle",
                 "repo": "checkstyle",
-                "stars": 9626,
+                "stars": 9627,
                 "topics": [
                   "code-quality",
                   "command-line-tool",
@@ -128,7 +128,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T18:28:23Z",
-                "open_issues": 562,
+                "open_issues": 565,
                 "owner": "google",
                 "repo": "error-prone",
                 "stars": 7265,
@@ -209,7 +209,7 @@
                 "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6375,
+                "stars": 6374,
                 "topics": [
                   "android-security",
                   "apk",
@@ -236,10 +236,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T19:39:34Z",
-                "open_issues": 601,
+                "open_issues": 605,
                 "owner": "pmd",
                 "repo": "pmd",
-                "stars": 5521,
+                "stars": 5522,
                 "topics": [
                   "apex",
                   "code-analysis",
@@ -271,7 +271,7 @@
                 "open_issues": 25,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 4048,
+                "stars": 4047,
                 "topics": [
                   "android",
                   "apk-decompiler",
@@ -311,7 +311,7 @@
                 "open_issues": 79,
                 "owner": "linkedin",
                 "repo": "qark",
-                "stars": 3394,
+                "stars": 3395,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:09.942Z"
@@ -362,7 +362,7 @@
                 "open_issues": 114,
                 "owner": "find-sec-bugs",
                 "repo": "find-sec-bugs",
-                "stars": 2453,
+                "stars": 2452,
                 "topics": [
                   "bytecode",
                   "code-analysis",
@@ -391,11 +391,11 @@
                 "id": 216696377,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T16:06:47Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-30T21:33:55Z",
+                "open_issues": 80,
                 "owner": "ev-flow",
                 "repo": "quark-engine",
-                "stars": 1736,
+                "stars": 1737,
                 "topics": [
                   "android",
                   "blackbox",
@@ -650,8 +650,8 @@
                 "id": 314791475,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T11:41:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-31T20:02:22Z",
+                "open_issues": 0,
                 "owner": "mpast",
                 "repo": "mobileAudit",
                 "stars": 229,
@@ -747,6 +747,34 @@
                 ]
               },
               "first_seen": "2026-08-29T00:58:09.942Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ShipSentry - Local-first, zero-dependency scanner for common Android release configuration and source risks.",
+              "description": "adamglin0/shipsentry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Local-first Android release risk scanner and human review service",
+                "homepage": "https://adamglin0.github.io/shipsentry/",
+                "id": 1324590092,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-08-06T01:36:32Z",
+                "open_issues": 0,
+                "owner": "adamglin0",
+                "repo": "shipsentry",
+                "stars": 0,
+                "topics": [
+                  "android",
+                  "gradle",
+                  "kotlin",
+                  "r8",
+                  "security-scanner",
+                  "static-analysis"
+                ]
+              },
+              "first_seen": "2026-10-31T20:27:10.587Z"
             }
           ],
           "description": null,
@@ -768,10 +796,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-27T16:23:19Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 63632,
+                "stars": 63654,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:09.942Z"
@@ -788,11 +816,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T19:34:51Z",
+                "last_commit": "2026-10-31T19:47:46Z",
                 "open_issues": 791,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25214,
+                "stars": 25219,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -820,11 +848,11 @@
                 "id": 30102273,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T07:52:34Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-31T19:58:04Z",
+                "open_issues": 8,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22081,
+                "stars": 22087,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -865,7 +893,7 @@
                 "open_issues": 54,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9474,
+                "stars": 9477,
                 "topics": [
                   "android",
                   "framework",
@@ -925,7 +953,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3136,
+                "stars": 3138,
                 "topics": [
                   "android-security",
                   "frida",
@@ -978,7 +1006,7 @@
                 "open_issues": 16,
                 "owner": "nccgroup",
                 "repo": "house",
-                "stars": 1468,
+                "stars": 1469,
                 "topics": [
                   "android",
                   "frida",
@@ -1004,7 +1032,7 @@
                 "open_issues": 4,
                 "owner": "mzfr",
                 "repo": "slicer",
-                "stars": 343,
+                "stars": 342,
                 "topics": [
                   "android",
                   "apk",
@@ -1028,11 +1056,11 @@
                 "id": 1247520017,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T21:09:10Z",
+                "last_commit": "2026-10-31T15:47:44Z",
                 "open_issues": 3,
                 "owner": "thomasbuilds",
                 "repo": "Spectre",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "android",
                   "app",
@@ -1186,7 +1214,7 @@
                 "open_issues": 7,
                 "owner": "bad-antics",
                 "repo": "nullkia",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "android",
                   "android-hacking",
@@ -1281,7 +1309,7 @@
                 "open_issues": 27,
                 "owner": "Nightbringer21",
                 "repo": "fridump",
-                "stars": 861,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:09.942Z"
@@ -1355,6 +1383,38 @@
                 "topics": []
               },
               "first_seen": "2026-09-03T19:50:24.621Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Guard - Windows desktop scanner that checks a USB-connected Android phone over ADB for stalkerware, malware packages and adware",
+              "description": "Skeetcher111/mcp-guard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP Guard — проверка Android-телефона с компьютера: вирусы, шпионские приложения, скам-игры, реклама прошивки. Windows, USB, без облака.",
+                "homepage": "https://mcpteam.ru/mcpguard/",
+                "id": 1413434429,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-23T11:31:35Z",
+                "open_issues": 0,
+                "owner": "Skeetcher111",
+                "repo": "mcp-guard",
+                "stars": 0,
+                "topics": [
+                  "adb",
+                  "android",
+                  "debloat",
+                  "electron",
+                  "malware-scanner",
+                  "mcpteam",
+                  "privacy",
+                  "security",
+                  "stalkerware",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-10-31T20:27:10.587Z"
             }
           ],
           "description": null,
@@ -1379,11 +1439,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T09:43:16Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-31T20:21:34Z",
+            "open_issues": 249,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13303,
+            "stars": 13306,
             "topics": [
               "android",
               "android-application",
@@ -1472,7 +1532,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-30T11:03:49Z",
-            "open_issues": 192,
+            "open_issues": 193,
             "owner": "OWASP",
             "repo": "SecurityShepherd",
             "stars": 1464,
@@ -1794,6 +1854,48 @@
         },
         {
           "node_type": "item",
+          "title": "Damn Vulnerable Mobile App (DVMA)",
+          "description": "cpeoples/dvma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📱 Damn Vulnerable Mobile App - a single Flutter codebase that builds real native iOS & Android binaries with 200+ intentionally-vulnerable modules mapped to OWASP MASVS/MASTG, Mobile Top 10, CWE, plus LLM & Agentic AI Top 10. For mobile security training, pentest practice, and scanner validation.",
+            "homepage": "https://cpeoples.github.io/dvma/",
+            "id": 1360628525,
+            "language": "Dart",
+            "license": "MIT",
+            "last_commit": "2026-10-17T11:50:22Z",
+            "open_issues": 0,
+            "owner": "cpeoples",
+            "repo": "dvma",
+            "stars": 8,
+            "topics": [
+              "agentic-ai",
+              "ai-security",
+              "android",
+              "appsec",
+              "ctf",
+              "cwe",
+              "dart",
+              "flutter",
+              "ios",
+              "llm-security",
+              "mastg",
+              "masvs",
+              "mobile-security",
+              "owasp",
+              "owasp-mobile-top-10",
+              "penetration-testing",
+              "pentesting",
+              "security",
+              "security-training",
+              "vulnerable-app"
+            ]
+          },
+          "first_seen": "2026-10-31T20:27:10.587Z"
+        },
+        {
+          "node_type": "item",
           "title": "Vulnerable Android Application",
           "description": "lancechentw/VulnApp",
           "children": [],
@@ -1835,7 +1937,7 @@
             "open_issues": 1,
             "owner": "AzeemIdrisi",
             "repo": "PhoneSploit-Pro",
-            "stars": 6418,
+            "stars": 6417,
             "topics": [
               "adb",
               "android",
@@ -2108,6 +2210,34 @@
             ]
           },
           "first_seen": "2026-09-03T19:50:24.621Z"
+        },
+        {
+          "node_type": "item",
+          "title": "APK SHA-256 Verifier",
+          "description": "Browser-based SHA-256 calculator for APK files: the file is hashed on your device and never uploaded, so you can compare a download against the hash the publisher lists. It confirms the files match; it does not scan the app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Client-side SHA-256 calculator for APK files. Files stay on the device; no upload or account required.",
+            "homepage": "https://subwaysurfersmodgame.github.io/apk-sha256-verifier/",
+            "id": 1355261016,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-10-27T11:54:33Z",
+            "open_issues": 0,
+            "owner": "subwaysurfersmodgame",
+            "repo": "apk-sha256-verifier",
+            "stars": 0,
+            "topics": [
+              "android",
+              "apk",
+              "checksum",
+              "client-side",
+              "privacy",
+              "sha256"
+            ]
+          },
+          "first_seen": "2026-10-31T20:27:10.587Z"
         }
       ],
       "title": "Misc"
@@ -2127,11 +2257,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T09:43:16Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-31T20:21:34Z",
+            "open_issues": 249,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13303,
+            "stars": 13306,
             "topics": [
               "android",
               "android-application",
@@ -2172,7 +2302,7 @@
             "open_issues": 4,
             "owner": "OWASP",
             "repo": "masvs",
-            "stars": 2475,
+            "stars": 2478,
             "topics": [
               "android-app",
               "audit",
@@ -2199,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:29:52.488Z",
+    "last_updated": "2026-10-31T20:27:10.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters",
@@ -2207,8 +2337,8 @@
       "id": 296523529,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-02T23:31:37Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-30T23:12:59Z",
+      "open_issues": 0,
       "owner": "saeidshirazi",
       "repo": "awesome-android-security",
       "stars": 2035,
@@ -2221,7 +2351,7 @@
         "android-security"
       ]
     },
-    "original_repository_sha": "346330d916c08ac35aebff50e8098f2cae547943",
+    "original_repository_sha": "5463bf671689a9ecc048b0157403195a022352d5",
     "enhanced_repository": "enhansome/enhansome-android-security",
     "enhanced_repository_description": null,
     "title": "Awesome-Android-Security with stars"
