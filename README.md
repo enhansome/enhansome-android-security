@@ -137,19 +137,19 @@
 
 #### Static Analysis
 
-* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases) ⭐ 51,983 | 🐛 467 | 🌐 Java | 📅 2026-11-23
-* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,765 | 🐛 199 | 🌐 OCaml | 📅 2026-11-24
-* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,666 | 🐛 1,172 | 🌐 Java | 📅 2026-11-24
-* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,279 | 🐛 489 | 🌐 Java | 📅 2026-11-24
+* [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases) ⭐ 52,011 | 🐛 466 | 🌐 Java | 📅 2026-11-25
+* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,766 | 🐛 196 | 🌐 OCaml | 📅 2026-11-25
+* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,670 | 🐛 1,190 | 🌐 Java | 📅 2026-11-25
+* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,280 | 🐛 489 | 🌐 Java | 📅 2026-11-25
 * [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali) ⚠️ Archived
-* [BlackDex is an Android unpack(dexdump) tool](https://github.com/CodingGay/BlackDex) ⭐ 6,483 | 🐛 89 | 🌐 C++ | 📅 2023-11-09
-* [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks) ⭐ 6,401 | 🐛 29 | 🌐 Python | 📅 2025-08-20
-* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,541 | 🐛 603 | 🌐 Java | 📅 2026-11-24
-* [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab) ⭐ 4,077 | 🐛 24 | 🌐 TypeScript | 📅 2026-07-16
+* [BlackDex is an Android unpack(dexdump) tool](https://github.com/CodingGay/BlackDex) ⭐ 6,484 | 🐛 89 | 🌐 C++ | 📅 2023-11-09
+* [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks) ⭐ 6,403 | 🐛 29 | 🌐 Python | 📅 2025-08-20
+* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,544 | 🐛 606 | 🌐 Java | 📅 2026-11-25
+* [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab) ⭐ 4,078 | 🐛 24 | 🌐 TypeScript | 📅 2026-07-16
 * [QARK – Quick Android Review Kit](https://github.com/linkedin/qark) ⭐ 3,397 | 🐛 79 | 🌐 Python | 📅 2024-01-16
 * [Soot – A Java Optimization Framework](https://github.com/Sable/soot) ⭐ 3,102 | 🐛 348 | 🌐 Java | 📅 2026-11-11
-* [Find Security Bugs – A SpotBugs plugin for security audits of Java web applications.](https://github.com/find-sec-bugs/find-sec-bugs/) ⭐ 2,453 | 🐛 96 | 🌐 Java | 📅 2026-11-03
-* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine) ⭐ 1,746 | 🐛 80 | 🌐 Python | 📅 2026-11-13
+* [Find Security Bugs – A SpotBugs plugin for security audits of Java web applications.](https://github.com/find-sec-bugs/find-sec-bugs/) ⭐ 2,454 | 🐛 96 | 🌐 Java | 📅 2026-11-03
+* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine) ⭐ 1,747 | 🐛 80 | 🌐 Python | 📅 2026-11-13
 * [Flow Droid – Static Data Flow Tracker](https://github.com/secure-software-engineering/FlowDroid) ⭐ 1,275 | 🐛 245 | 🌐 Java | 📅 2026-11-24
 * [mariana-trench - Our security focused static analysis tool for Android and Java applications.](https://github.com/facebook/mariana-trench) ⭐ 1,263 | 🐛 61 | 🌐 C++ | 📅 2026-11-24
 * [StaCoAn – crossplatform tool which aids developers, bugbounty hunters and ethical hackers](https://github.com/vincentcox/StaCoAn) ⭐ 870 | 🐛 11 | 🌐 JavaScript | 📅 2021-04-27
@@ -178,21 +178,21 @@
 
 #### Dynamic Analysis
 
-* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk) ⭐ 64,279 | 🐛 62 | 🌐 Kotlin | 📅 2026-11-24
-* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 25,503 | 🐛 813 | 🌐 C | 📅 2026-11-25
-* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 22,331 | 🐛 3 | 🌐 Python | 📅 2026-11-18
-* [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection) ⭐ 9,535 | 🐛 58 | 🌐 Python | 📅 2026-10-27
+* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk) ⭐ 64,312 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-24
+* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 25,508 | 🐛 808 | 🌐 C | 📅 2026-11-26
+* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 22,347 | 🐛 6 | 🌐 Python | 📅 2026-11-25
+* [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection) ⭐ 9,537 | 🐛 58 | 🌐 Python | 📅 2026-10-27
 * [Drozer](https://github.com/FSecureLABS/drozer) ⭐ 4,658 | 🐛 9 | 🌐 Python | 📅 2026-04-08
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,154 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12
 * [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,988 | 🐛 56 | 🌐 Java | 📅 2020-09-22
 * [House: A runtime mobile application analysis toolkit with a Web GUI](https://github.com/nccgroup/house) ⭐ 1,471 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03
 * [Slicer-automate APK Recon](https://github.com/mzfr/slicer) ⭐ 342 | 🐛 4 | 🌐 Python | 📅 2022-09-30
-* [Spectre - Radio frequency scanner with recon and offensive capabilities](https://github.com/thomasbuilds/Spectre) ⭐ 213 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-21
-* [FlutterTap - Zygisk module that bypasses BoringSSL TLS pinning inside libflutter.so and redirects Flutter app traffic to a proxy, persistently and without a Frida session](https://github.com/script-or-script/FlutterTap) ⭐ 130 | 🐛 1 | 🌐 C++ | 📅 2026-08-07
+* [Spectre - Radio frequency scanner with recon and offensive capabilities](https://github.com/thomasbuilds/Spectre) ⭐ 215 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-21
+* [FlutterTap - Zygisk module that bypasses BoringSSL TLS pinning inside libflutter.so and redirects Flutter app traffic to a proxy, persistently and without a Frida session](https://github.com/script-or-script/FlutterTap) ⭐ 132 | 🐛 1 | 🌐 C++ | 📅 2026-08-07
 * [PATDroid - Collection of tools and data structures for analyzing Android applications](https://github.com/mingyuan-xia/PATDroid) ⭐ 120 | 🐛 3 | 🌐 Java | 📅 2017-05-25
 * [MPT - Mobile Pentest Toolkit (MPT) is a must-have solution for your android penetration testing workflows.](https://github.com/ByteSnipers/mobile-pentest-toolkit) ⭐ 103 | 🐛 0 | 🌐 Python | 📅 2026-05-15
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff) ⭐ 88 | 🐛 1 | 🌐 Python | 📅 2026-09-29
-* [NullKia](https://github.com/bad-antics/nullkia) ⭐ 68 | 🐛 7 | 🌐 Go | 📅 2026-04-17 - Mobile security framework supporting 18 manufacturers with baseband exploitation, TEE/TrustZone research, cellular security, and eSIM tools
+* [NullKia](https://github.com/bad-antics/nullkia) ⭐ 69 | 🐛 7 | 🌐 Go | 📅 2026-04-17 - Mobile security framework supporting 18 manufacturers with baseband exploitation, TEE/TrustZone research, cellular security, and eSIM tools
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
 * [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
 * [Mobilebox - Disposable cloud Android phones over API or MCP: install an APK, watch its screens, capture the hosts it contacts with PCAPdroid, then delete the phone](https://mobilebox.dev/blog/android-sandbox-apk-analysis)
@@ -228,9 +228,9 @@
 
 #### Forensic Analysis
 
-* [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME) ⭐ 2,062 | 🐛 36 | 🌐 C | 📅 2026-04-05
-* [Andriller](https://github.com/den4uk/andriller) ⭐ 1,629 | 🐛 13 | 🌐 Python | 📅 2022-06-27
-* [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump) ⭐ 863 | 🐛 27 | 🌐 Python | 📅 2024-08-07
+* [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME) ⭐ 2,063 | 🐛 36 | 🌐 C | 📅 2026-04-05
+* [Andriller](https://github.com/den4uk/andriller) ⭐ 1,631 | 🐛 13 | 🌐 Python | 📅 2022-06-27
+* [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump) ⭐ 865 | 🐛 27 | 🌐 Python | 📅 2024-08-07
 * [bandicoot](https://github.com/computationalprivacy/bandicoot) ⭐ 241 | 🐛 2 | 🌐 Python | 📅 2021-01-04
 * [Forensic Analysis for Mobile Apps (FAMA)](https://github.com/labcif/FAMA) ⚠️ Archived
 * [radio-triage - Android radio log triage with telephony event timeline and anomaly detection from logcat](https://github.com/0xPersist/radio-triage) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-13
@@ -239,12 +239,12 @@
 
 # Labs
 
-* [OWASP-mstg(UnCrackable Mobile Apps)](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,374 | 🐛 258 | 🌐 Python | 📅 2026-11-24
+* [OWASP-mstg(UnCrackable Mobile Apps)](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,375 | 🐛 259 | 🌐 Python | 📅 2026-11-24
 * [Sieve app(An android application which exploits through android components)](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk) ⭐ 4,658 | 🐛 9 | 🌐 Python | 📅 2026-04-08
 * [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,490 | 🐛 17 | 🌐 Java | 📅 2024-04-17
-* [OWASP Security Shepherd ](https://github.com/OWASP/SecurityShepherd) ⭐ 1,470 | 🐛 179 | 🌐 Java | 📅 2026-11-25
+* [OWASP Security Shepherd ](https://github.com/OWASP/SecurityShepherd) ⭐ 1,471 | 🐛 176 | 🌐 Java | 📅 2026-11-25
 * [AndroL4b - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis](https://github.com/sh4hin/Androl4b) ⭐ 1,180 | 🐛 5 | 📅 2023-05-31
-* [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android) ⭐ 1,173 | 🐛 13 | 🌐 Java | 📅 2023-05-19
+* [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android) ⭐ 1,174 | 🐛 13 | 🌐 Java | 📅 2023-05-19
 * [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank) ⭐ 769 | 🐛 4 | 🌐 Java | 📅 2023-12-13
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa) ⭐ 767 | 🐛 1 | 🌐 Java | 📅 2026-11-11
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA) ⭐ 273 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-22
@@ -286,17 +286,17 @@
 
 # Misc
 
-* [PhoneSploit with Metasploit Integration](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,500 | 🐛 1 | 🌐 Python | 📅 2026-10-19
-* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,150 | 🐛 86 | 🌐 TypeScript | 📅 2024-07-24
+* [PhoneSploit with Metasploit Integration](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,505 | 🐛 1 | 🌐 Python | 📅 2026-10-19
+* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,152 | 🐛 86 | 🌐 TypeScript | 📅 2024-07-24
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md) ⭐ 1,720 | 🐛 0 | 📅 2026-10-21
-* [Andriller - is software utility with a collection of forensic tools for smartphones](https://github.com/den4uk/andriller) ⭐ 1,629 | 🐛 13 | 🌐 Python | 📅 2022-06-27
+* [Andriller - is software utility with a collection of forensic tools for smartphones](https://github.com/den4uk/andriller) ⭐ 1,631 | 🐛 13 | 🌐 Python | 📅 2022-06-27
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020) ⭐ 334 | 🐛 5 | 📅 2021-01-06
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019) ⭐ 253 | 🐛 1 | 📅 2020-01-01
-* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 242 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
+* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 243 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
 * [android-device-check - a set of scripts to check Android device security configuration](https://github.com/nelenkov/android-device-check) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2019-10-25
 * [Popular Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021) ⭐ 39 | 🐛 1 | 📅 2022-03-09
 * [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022) ⭐ 36 | 🐛 0 | 📅 2022-11-08
-* [Airgate](https://github.com/heyaibi/airgate) ⭐ 4 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-18 - Offline Device-Owner watchdog for pentesting air-gapped Android posture — monitors 14 wireless/USB/system-tamper signals (Wi-Fi, Bluetooth, USB tethering/data/OTG, ADB, SIM/clock) with reactive hardening and factory-reset wipe; 100% offline (no INTERNET permission, Dhizuku/DevicePolicyManager), GPL-3.0.
+* [Airgate](https://github.com/heyaibi/airgate) ⭐ 6 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-18 - Offline Device-Owner watchdog for pentesting air-gapped Android posture — monitors 14 wireless/USB/system-tamper signals (Wi-Fi, Bluetooth, USB tethering/data/OTG, ADB, SIM/clock) with reactive hardening and factory-reset wipe; 100% offline (no INTERNET permission, Dhizuku/DevicePolicyManager), GPL-3.0.
 * [APK SHA-256 Verifier](https://github.com/subwaysurfersmodgame/apk-sha256-verifier) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-10-27 - Browser-based SHA-256 calculator for APK files: the file is hashed on your device and never uploaded, so you can compare a download against the hash the publisher lists. It confirms the files match; it does not scan the app.
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
 * [Hands On Mobile API Security](https://hackernoon.com/hands-on-mobile-api-security-get-rid-of-client-secrets-a79f111b6844)
@@ -316,14 +316,14 @@
 
 # Cheat Sheet
 
-* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet) ⭐ 292 | 🐛 1 | 📅 2018-02-02
+* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet) ⭐ 293 | 🐛 1 | 📅 2018-02-02
 * [ADB (Android Debug Bridge) Cheat Sheet](https://www.mobileqaengineer.com/blog/2020/2/4/adb-android-debug-bridge-cheat-sheet)
 * [Frida Cheatsheet and Code Snippets for Android](https://erev0s.com/blog/frida-code-snippets-for-android/)
 
 # Checklists
 
-* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists) ⭐ 13,374 | 🐛 258 | 🌐 Python | 📅 2026-11-24
-* [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) ⭐ 2,485 | 🐛 4 | 🌐 Python | 📅 2026-09-21
+* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists) ⭐ 13,375 | 🐛 259 | 🌐 Python | 📅 2026-11-24
+* [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) ⭐ 2,487 | 🐛 4 | 🌐 Python | 📅 2026-09-21
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
 
 # Bug Bounty Reports
@@ -333,4 +333,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
